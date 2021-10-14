@@ -9,11 +9,13 @@ We'd love to put it on this page! Do a pull request, or send email to Alan Jamie
 ## Activities
 
 All activities 
-### CS Unplugged Activities
+
+#### CS Unplugged Activities
 
 There are a few activities (and related resources) posted by CS Unplugged in the Classic portion of the website that we think could be used for Pre-K-2 with some modifications.
 
 Graph Coloring: https://classic.csunplugged.org/activities/graph-colouring/
+
 Dominating Set: https://classic.csunplugged.org/activities/dominating-sets/
 
 ## Questions? Comments?
