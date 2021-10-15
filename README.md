@@ -20,6 +20,10 @@ Graph Coloring: https://classic.csunplugged.org/activities/graph-colouring/
 
 Dominating Set: https://classic.csunplugged.org/activities/dominating-sets/
 
+## Presentation Slides
+
+[Slide deck from CSTA NE 2021](CSTA NE 2021.pdf)
+
 ## Questions? Comments?
 
 Contact Alan or Lindsay at our email addresses here: [The Roux Institute at Northeastern University](https://roux.northeastern.edu/about/our-people/faculty-research/).
