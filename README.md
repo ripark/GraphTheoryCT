@@ -22,7 +22,7 @@ Dominating Set: https://classic.csunplugged.org/activities/dominating-sets/
 
 ## Presentation Slides
 
-[Slide deck from CSTA NE 2021](CSTA NE 2021.pdf)
+[Slide deck from CSTA NE 2021](https://github.com/ripark/GraphTheoryCT/raw/main/CSTA%20NE%202021.pdf)
 
 ## Questions? Comments?
 
